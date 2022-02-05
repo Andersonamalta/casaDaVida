@@ -1,0 +1,30 @@
+#login{
+    background: url(../imagens/login_background.png);
+}
+
+#logo_login{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texto_colab{
+    color: #1C81C8;
+}
+
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+
+#botao_home_colab{
+    background: rgb(22, 92, 172)
+}
